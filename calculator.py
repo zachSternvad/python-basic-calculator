@@ -1,0 +1,1 @@
+# Calculator class med core logic
